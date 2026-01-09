@@ -4,7 +4,7 @@
 **altoro-iv/altoro-iv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on my bachelor's in computer science with a concentration in software engineering through Southern New Hampshire University. I only have 2 more terms left!
+- 🔭 I earned my bachelor's in computer science with a concentration in software engineering through Southern New Hampshire University Summa Cum Laude in November, 2025.
 - 🌱 I’m currently learning Foundations through the Odin Project, the Back-end Developer Path(OOP in Python) through Boot.dev, as well as going through the Computer Science career path on Codecademy. I feel like I haven't learned/retained as much as I would like through just college alone so I'm trying to develop my skillset in any way possible.
 - 👯 I’m looking to collaborate on anything that will teach me something and reinforce knowledge, preferably web development or app development.
 - 🤔 I’m looking for help with getting into the field, would really love to land a job or internship.
